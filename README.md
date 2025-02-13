@@ -33,13 +33,3 @@ git clone https://github.com/YusufBerkayAcar/Appointment-System.git
 cd appointment-system
 ```
 
-### Install dependencies:
-```sh
-npm install
-```
-
-### Start the server:
-```sh
-npm start
-```
-
